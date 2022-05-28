@@ -1,2 +1,3 @@
 # NAS_Specific_Hardware
-neural architecture search technology deployed on specific hardware
+This is my Undergraduate paper file.
+neural architecture search technology deployed on specific hardware.
